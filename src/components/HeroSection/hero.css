@@ -1,0 +1,47 @@
+.but{
+    flex-direction: row;
+    display: flex;
+    justify-content: space-between;
+}
+.contact{
+    margin-left: 30px;
+}
+.image{
+    height: 42vh !important;
+}
+.join{
+    background-color: rgb(115, 17, 164);
+    color: white;
+    border: none;
+    border-radius: 20px;
+    width: 8vw;
+    text-align: center;
+    font-size:14px;
+    padding: 10px;
+}
+.join:hover{
+background-color: rgb(19, 138, 19);
+color: white !important;
+}
+
+.joint:hover{
+    background-color: rgb(19, 138, 19);
+    color: white !important; 
+}
+.joint{
+    background-color: rgb(115, 17, 164);
+    color: white;
+    border: none;
+    border-radius: 8px;
+    text-align: center;
+    font-size:14px;
+    padding: 5px;
+}
+.port{
+    height: 8vh;
+    margin-right: -8%;
+}
+.portfol{
+    font-size:28px !important
+    
+}
