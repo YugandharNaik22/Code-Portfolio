@@ -9,7 +9,7 @@ export const Bio = {
     "I am a proactive and adaptable professional, dedicated to embracing new challenges and delivering exceptional results. With a strong commitment to continuous learning and a positive, growth-oriented mindset, I am focused on achieving excellence and making a significant impact. Ready to contribute effectively, I bring a results-driven approach and a passion for driving meaningful progress.",
   github: "https://github.com/YugandharNaik22",
   resume:
-    "https://drive.google.com/file/d/1Dd4VNMBW5t_VEcfK6A9D-JrKP6EiupE8/view?usp=sharing",
+    "https://drive.google.com/file/d/1whyLFACW7IWGOSxJx9pYFmB3OENJVxpc/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/yugandhar-nayak-sabhavath/",
   twitter: "https://x.com/Balu42284020",
   insta: "https://www.instagram.com/yugandharnaik___/",
